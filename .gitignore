@@ -27,8 +27,7 @@ node_modules
 .env
 coverage
 coverage.json
-typechain
-typechain-types
+uploads
 
 #Hardhat files
 cache

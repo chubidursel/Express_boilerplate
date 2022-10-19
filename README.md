@@ -1,2 +1,6 @@
 # MERN_project
-Simple Full-Stack application
+Simple Full-Stack MERN application
+
+# Useful Tools
+> Insomia => get / post http request
+> MangoDB Compass
