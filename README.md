@@ -1,5 +1,5 @@
 # MERN_project
-Simple Full-Stack MERN application
+Simple implementation Back-End with Node.js and MangoDB
 
 # Useful Tools
 > Insomia => get / post http request
